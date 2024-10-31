@@ -19,6 +19,20 @@
 		}
 	}
 
+	.dragActive {
+		background-color: rgb(0, 231, 236);
+
+	}
+
+	.dragComplete {
+		// background-color: rgb(255, 38, 0);
+		background-color: black
+	}
+
+	.drag {
+		box-shadow: 0 0 20px black;
+	}
+
 	.remove {
 		background-color: rgb(235, 103, 80);
 	}
